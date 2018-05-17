@@ -1,0 +1,20 @@
+body > div {
+  display: flex;
+}
+
+.my-component {
+  width: 500px;
+  height: 5000px;
+  border: 1px solid black;
+}
+
+.my-component-2 {
+  width: 500px;
+  height: 500px;
+  overflow: auto;
+  border: 1px solid black;
+}
+
+.my-component-2__inner {
+  height: 5000px;
+}
